@@ -5,9 +5,6 @@ Kosher client base ported to Minecraft 1.21.5 by [@cattyngmd](https://github.com
 
 <img src="https://i.imgur.com/Lu6rDJB.png" width="90%" />
 
-# Why
-![](https://i.imgur.com/VYjIphG.png)
-
 # What
 My hacked client!
 
